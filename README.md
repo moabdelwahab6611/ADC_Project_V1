@@ -1,7 +1,7 @@
 # ADC Project V1
 
 ### Description :
-My First Project in c programming language to use  ADC.
+My first project in c programming language to use  ADC.
 
 ### Requirements :
 To build, compile and run this project successfully you need to use MPLAB X IDE with XC8 compiler, PIC18F4620 8-Bit Micro-conroller, and pickit3.
